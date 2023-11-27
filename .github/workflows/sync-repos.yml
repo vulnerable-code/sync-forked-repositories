@@ -1,0 +1,40 @@
+name: Sync Forked Repositories
+
+on:
+    workflow_dispatch:
+    schedule:
+      - cron: '0 0 * * *'
+
+jobs:
+  list-repos:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      repository-projects: write
+      pull-requests: write
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+    
+    - name: install dependencies
+      run: |
+        sudo apt update
+        sudo apt install jq gh -y
+  
+    - name: Login to GitHub
+      run: |
+        echo "${{ secrets.WRITE_TOKEN }}" | gh auth login --with-token
+
+    - name: List all repositories in the organization and sync them
+      env:
+        ORG_NAME: "vulnerable-code"
+      run: |
+        # List all forks in the organization
+        forks=$(gh api orgs/$ORG_NAME/repos --jq '.[] | select(.fork==true) | .full_name' --paginate)
+
+        # Loop through each fork and update
+        for fork in $forks; do
+          echo "Updating $fork"
+          gh repo sync $fork
+        done
