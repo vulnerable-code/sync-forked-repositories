@@ -41,3 +41,14 @@ jobs:
 
     - name: Save datetime of the last run
       run: date '+%Y-%m-%d %H:%M:%S' > sync.log
+    
+    - name: Commit and push sync log
+      run: |
+        DATE=$(date '+%Y-%m-%d %H:%M:%S')
+        git config --global user.name "github-actions"
+        git config --global user.email "github-actions@github.com"
+        git add sync.log
+        git commit -m "Update sync log with the latest run date and time: $DATE"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.WRITE_TOKEN }}
