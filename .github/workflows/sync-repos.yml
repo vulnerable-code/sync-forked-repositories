@@ -45,6 +45,7 @@ jobs:
     - name: Commit and push sync log
       run: |
         DATE=$(date '+%Y-%m-%d %H:%M:%S')
+        echo $DATE > sync.log
         git config --global user.name "github-actions"
         git config --global user.email "github-actions@github.com"
         git add sync.log
