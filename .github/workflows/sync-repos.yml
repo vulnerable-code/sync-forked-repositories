@@ -1,9 +1,9 @@
 name: Sync Forked Repositories
 
 on:
-    workflow_dispatch:
-    schedule:
-      - cron: '0 0 * * *'
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
 
 jobs:
   list-repos:
@@ -38,3 +38,6 @@ jobs:
           echo "Updating $fork"
           gh repo sync $fork
         done
+
+    - name: Save datetime of the last run
+      run: date '+%Y-%m-%d %H:%M:%S' > sync.log
