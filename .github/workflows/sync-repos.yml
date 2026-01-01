@@ -72,8 +72,10 @@ jobs:
           sleep_seconds=5
 
           while [ $attempt -le $max_attempts ]; do
+            set +e
             OUTPUT=$(gh api repos/$repo/actions/workflows/$workflow_id/disable -X PUT 2>&1)
             EXIT_CODE=$?
+            set -e
 
             if [ $EXIT_CODE -eq 0 ]; then
               return 0
@@ -113,6 +115,7 @@ jobs:
         while IFS= read -r repo; do
           [ -z "$repo" ] && continue
 
+          set +e
           workflows=$(gh api repos/$repo/actions/workflows --paginate --jq '
             .workflows[] |
             select(
@@ -123,12 +126,21 @@ jobs:
                 (.name != "Dependabot Updates" or .path != "dynamic/dependabot/dependabot-updates")
               )
             ) | "\(.id)\t\(.name)\t\(.path)"')
+          workflows_exit_code=$?
+          set -e
+
+          if [ $workflows_exit_code -ne 0 ]; then
+            echo "$repo workflows_list_failed" >> disable_failed_workflows.log
+            continue
+          fi
 
           while IFS=$'\t' read -r workflow_id workflow_name workflow_path; do
             [ -z "$workflow_id" ] && continue
             echo "Disabling workflow $workflow_id in $repo"
+            set +e
             disable_workflow_with_retry "$repo" "$workflow_id" "$workflow_name" "$workflow_path"
             RESULT=$?
+            set -e
             if [ $RESULT -eq 2 ]; then
               echo "Rate limit reached, stopping disable process"
               break 2
