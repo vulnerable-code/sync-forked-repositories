@@ -1,341 +1,341 @@
 {
   "vulnerable-code/AWSGoat": {
-    "last_disable": "2026-01-12T00:22:56Z"
+    "last_disable": "2026-01-13T00:19:17Z"
   },
   "vulnerable-code/CORS-vulnerable-Lab": {
-    "last_disable": "2026-01-12T00:22:56Z"
+    "last_disable": "2026-01-13T00:19:17Z"
   },
   "vulnerable-code/DSVPWA": {
-    "last_disable": "2026-01-12T00:22:56Z"
+    "last_disable": "2026-01-13T00:19:17Z"
   },
   "vulnerable-code/DVSA": {
-    "last_disable": "2026-01-12T00:22:57Z"
+    "last_disable": "2026-01-13T00:19:18Z"
   },
   "vulnerable-code/DVWA": {
-    "last_disable": "2026-01-12T00:22:57Z"
+    "last_disable": "2026-01-13T00:19:18Z"
   },
   "vulnerable-code/Damn-Vulnerable-Bank": {
-    "last_disable": "2026-01-12T00:22:57Z"
+    "last_disable": "2026-01-13T00:19:18Z"
   },
   "vulnerable-code/Damn-Vulnerable-GraphQL-Application": {
-    "last_disable": "2026-01-12T00:22:57Z"
+    "last_disable": "2026-01-13T00:19:19Z"
   },
   "vulnerable-code/DamnVulnerableCryptoApp": {
-    "last_disable": "2026-01-12T00:22:58Z"
+    "last_disable": "2026-01-13T00:19:19Z"
   },
   "vulnerable-code/Damn_Vulnerable_C_Program": {
-    "last_disable": "2026-01-12T00:22:58Z"
+    "last_disable": "2026-01-13T00:19:19Z"
   },
   "vulnerable-code/Exploit-Challenges": {
-    "last_disable": "2026-01-12T00:22:58Z"
+    "last_disable": "2026-01-13T00:19:19Z"
   },
   "vulnerable-code/Goatlin": {
-    "last_disable": "2026-01-12T00:22:58Z"
+    "last_disable": "2026-01-13T00:19:19Z"
   },
   "vulnerable-code/HackSysExtremeVulnerableDriver": {
-    "last_disable": "2026-01-12T00:22:58Z"
+    "last_disable": "2026-01-13T00:19:20Z"
   },
   "vulnerable-code/Hacme-Casino": {
-    "last_disable": "2026-01-12T00:22:59Z"
+    "last_disable": "2026-01-13T00:19:20Z"
   },
   "vulnerable-code/InjuredAndroid": {
-    "last_disable": "2026-01-12T00:22:59Z"
+    "last_disable": "2026-01-13T00:19:20Z"
   },
   "vulnerable-code/InsecureShop": {
-    "last_disable": "2026-01-12T00:22:59Z"
+    "last_disable": "2026-01-13T00:19:20Z"
   },
   "vulnerable-code/JavaVulnerableLab": {
-    "last_disable": "2026-01-12T00:22:59Z"
+    "last_disable": "2026-01-13T00:19:21Z"
   },
   "vulnerable-code/KaiMonkey": {
-    "last_disable": "2026-01-12T00:22:59Z"
+    "last_disable": "2026-01-13T00:19:21Z"
   },
   "vulnerable-code/KotlinGoat": {
-    "last_disable": "2026-01-12T00:23:00Z"
+    "last_disable": "2026-01-13T00:19:21Z"
   },
   "vulnerable-code/NodeGoat": {
-    "last_disable": "2026-01-12T00:23:00Z"
+    "last_disable": "2026-01-13T00:19:21Z"
   },
   "vulnerable-code/OWASP-VWAD": {
-    "last_disable": "2026-01-12T00:23:00Z"
+    "last_disable": "2026-01-13T00:19:22Z"
   },
   "vulnerable-code/OWASPWebGoatPHP": {
-    "last_disable": "2026-01-12T00:23:00Z"
+    "last_disable": "2026-01-13T00:19:22Z"
   },
   "vulnerable-code/SAST-Benchmark": {
-    "last_disable": "2026-01-12T00:23:00Z"
+    "last_disable": "2026-01-13T00:19:22Z"
   },
   "vulnerable-code/SQLI-Lab_b0x": {
-    "last_disable": "2026-01-12T00:23:01Z"
+    "last_disable": "2026-01-13T00:19:22Z"
   },
   "vulnerable-code/SSRF_Vulnerable_Lab": {
-    "last_disable": "2026-01-12T00:23:01Z"
+    "last_disable": "2026-01-13T00:19:23Z"
   },
   "vulnerable-code/SVWA": {
-    "last_disable": "2026-01-12T00:23:01Z"
+    "last_disable": "2026-01-13T00:19:23Z"
   },
   "vulnerable-code/TerraformGoat": {
-    "last_disable": "2026-01-12T00:23:01Z"
+    "last_disable": "2026-01-13T00:19:23Z"
   },
   "vulnerable-code/VAmPI": {
-    "last_disable": "2026-01-12T00:23:01Z"
+    "last_disable": "2026-01-13T00:19:23Z"
   },
   "vulnerable-code/Vicnum-BasicCTF": {
-    "last_disable": "2026-01-12T00:23:02Z"
+    "last_disable": "2026-01-13T00:19:23Z"
   },
   "vulnerable-code/VulnCases": {
-    "last_disable": "2026-01-12T00:23:02Z"
+    "last_disable": "2026-01-13T00:19:24Z"
   },
   "vulnerable-code/VulnNodeApp": {
-    "last_disable": "2026-01-12T00:23:02Z"
+    "last_disable": "2026-01-13T00:19:24Z"
   },
   "vulnerable-code/Vulnerability-goapp": {
-    "last_disable": "2026-01-12T00:23:02Z"
+    "last_disable": "2026-01-13T00:19:24Z"
   },
   "vulnerable-code/Vulnerable-Flask-App": {
-    "last_disable": "2026-01-12T00:23:02Z"
+    "last_disable": "2026-01-13T00:19:24Z"
   },
   "vulnerable-code/Vulnerable-OAuth-2.0-Applications": {
-    "last_disable": "2026-01-12T00:23:03Z"
+    "last_disable": "2026-01-13T00:19:25Z"
   },
   "vulnerable-code/Vulnerable-Soap-Service": {
-    "last_disable": "2026-01-12T00:23:03Z"
+    "last_disable": "2026-01-13T00:19:25Z"
   },
   "vulnerable-code/Vulnerable-Web-Application": {
-    "last_disable": "2026-01-12T00:23:03Z"
+    "last_disable": "2026-01-13T00:19:25Z"
   },
   "vulnerable-code/VulnerableApp": {
-    "last_disable": "2026-01-12T00:23:03Z"
+    "last_disable": "2026-01-13T00:19:25Z"
   },
   "vulnerable-code/VulnerableApp-facade": {
-    "last_disable": "2026-01-12T00:23:03Z"
+    "last_disable": "2026-01-13T00:19:26Z"
   },
   "vulnerable-code/VulnerableApp-jsp": {
-    "last_disable": "2026-01-12T00:23:04Z"
+    "last_disable": "2026-01-13T00:19:26Z"
   },
   "vulnerable-code/VulnerableApp-php": {
-    "last_disable": "2026-01-12T00:23:04Z"
+    "last_disable": "2026-01-13T00:19:26Z"
   },
   "vulnerable-code/VulnerableCoreApp": {
-    "last_disable": "2026-01-12T00:23:04Z"
+    "last_disable": "2026-01-13T00:19:26Z"
   },
   "vulnerable-code/VulnerableRubyWebsite": {
-    "last_disable": "2026-01-12T00:23:04Z"
+    "last_disable": "2026-01-13T00:19:27Z"
   },
   "vulnerable-code/VulnerableSpring": {
-    "last_disable": "2026-01-12T00:23:04Z"
+    "last_disable": "2026-01-13T00:19:27Z"
   },
   "vulnerable-code/VyAPI": {
-    "last_disable": "2026-01-12T00:23:05Z"
+    "last_disable": "2026-01-13T00:19:27Z"
   },
   "vulnerable-code/XXE_Vulnerable_codes": {
-    "last_disable": "2026-01-12T00:23:05Z"
+    "last_disable": "2026-01-13T00:19:27Z"
   },
   "vulnerable-code/advanced-security-csharp": {
-    "last_disable": "2026-01-12T00:23:05Z"
+    "last_disable": "2026-01-13T00:19:28Z"
   },
   "vulnerable-code/bicepgoat": {
-    "last_disable": "2026-01-12T00:23:05Z"
+    "last_disable": "2026-01-13T00:19:28Z"
   },
   "vulnerable-code/cdkgoat": {
-    "last_disable": "2026-01-12T00:23:05Z"
+    "last_disable": "2026-01-13T00:19:28Z"
   },
   "vulnerable-code/cfngoat": {
-    "last_disable": "2026-01-12T00:23:06Z"
+    "last_disable": "2026-01-13T00:19:29Z"
   },
   "vulnerable-code/damn-vulnerable-defi": {
-    "last_disable": "2026-01-12T00:23:06Z"
+    "last_disable": "2026-01-13T00:19:29Z"
   },
   "vulnerable-code/damn-vulnerable-defi-foundry": {
-    "last_disable": "2026-01-12T00:23:06Z"
+    "last_disable": "2026-01-13T00:19:29Z"
   },
   "vulnerable-code/docker-vulnerable-dvwa": {
-    "last_disable": "2026-01-12T00:23:06Z"
+    "last_disable": "2026-01-13T00:19:29Z"
   },
   "vulnerable-code/dvcsharp-api": {
-    "last_disable": "2026-01-12T00:23:06Z"
+    "last_disable": "2026-01-13T00:19:30Z"
   },
   "vulnerable-code/dvja": {
-    "last_disable": "2026-01-12T00:23:07Z"
+    "last_disable": "2026-01-13T00:19:30Z"
   },
   "vulnerable-code/dvna": {
-    "last_disable": "2026-01-12T00:23:07Z"
+    "last_disable": "2026-01-13T00:19:30Z"
   },
   "vulnerable-code/dvpwa": {
-    "last_disable": "2026-01-12T00:23:07Z"
+    "last_disable": "2026-01-13T00:19:30Z"
   },
   "vulnerable-code/example-javascript-vulnerable-methods": {
-    "last_disable": "2026-01-12T00:23:07Z"
+    "last_disable": "2026-01-13T00:19:30Z"
   },
   "vulnerable-code/flask-webgoat": {
-    "last_disable": "2026-01-12T00:23:07Z"
+    "last_disable": "2026-01-13T00:19:31Z"
   },
   "vulnerable-code/go-test-bench": {
-    "last_disable": "2026-01-12T00:23:08Z"
+    "last_disable": "2026-01-13T00:19:31Z"
   },
   "vulnerable-code/govwa": {
-    "last_disable": "2026-01-12T00:23:08Z"
+    "last_disable": "2026-01-13T00:19:31Z"
   },
   "vulnerable-code/iGoat-Swift": {
-    "last_disable": "2026-01-12T00:23:08Z"
+    "last_disable": "2026-01-13T00:19:31Z"
   },
   "vulnerable-code/iam-vulnerable": {
-    "last_disable": "2026-01-12T00:23:08Z"
+    "last_disable": "2026-01-13T00:19:32Z"
   },
   "vulnerable-code/insecure-coding-examples": {
-    "last_disable": "2026-01-12T00:23:08Z"
+    "last_disable": "2026-01-13T00:19:32Z"
   },
   "vulnerable-code/insecure-deserialisation-net-poc": {
-    "last_disable": "2026-01-12T00:23:09Z"
+    "last_disable": "2026-01-13T00:19:32Z"
   },
   "vulnerable-code/intentionally-vulnerable-golang-project": {
-    "last_disable": "2026-01-12T00:23:09Z"
+    "last_disable": "2026-01-13T00:19:32Z"
   },
   "vulnerable-code/java-sec-code": {
-    "last_disable": "2026-01-12T00:23:09Z"
+    "last_disable": "2026-01-13T00:19:33Z"
   },
   "vulnerable-code/javulna": {
-    "last_disable": "2026-01-12T00:23:09Z"
+    "last_disable": "2026-01-13T00:19:33Z"
   },
   "vulnerable-code/jexboss": {
-    "last_disable": "2026-01-12T00:23:09Z"
+    "last_disable": "2026-01-13T00:19:33Z"
   },
   "vulnerable-code/juice-shop": {
-    "last_disable": "2026-01-12T00:23:10Z"
+    "last_disable": "2026-01-13T00:19:33Z"
   },
   "vulnerable-code/kubernetes-goat": {
-    "last_disable": "2026-01-12T00:23:10Z"
+    "last_disable": "2026-01-13T00:19:34Z"
   },
   "vulnerable-code/kustomizegoat": {
-    "last_disable": "2026-01-12T00:23:10Z"
+    "last_disable": "2026-01-13T00:19:34Z"
   },
   "vulnerable-code/log4shell-vulnerable-app": {
-    "last_disable": "2026-01-12T00:23:10Z"
+    "last_disable": "2026-01-13T00:19:34Z"
   },
   "vulnerable-code/nodejs-goof": {
-    "last_disable": "2026-01-12T00:23:10Z"
+    "last_disable": "2026-01-13T00:19:34Z"
   },
   "vulnerable-code/petstore-api-flask": {
-    "last_disable": "2026-01-12T00:23:11Z"
+    "last_disable": "2026-01-13T00:19:35Z"
   },
   "vulnerable-code/php-goof": {
-    "last_disable": "2026-01-12T00:23:11Z"
+    "last_disable": "2026-01-13T00:19:35Z"
   },
   "vulnerable-code/play-webgoat": {
-    "last_disable": "2026-01-12T00:23:11Z"
+    "last_disable": "2026-01-13T00:19:35Z"
   },
   "vulnerable-code/pygoat": {
-    "last_disable": "2026-01-12T00:23:11Z"
+    "last_disable": "2026-01-13T00:19:35Z"
   },
   "vulnerable-code/r0uei": {
-    "last_disable": "2026-01-12T00:23:11Z"
+    "last_disable": "2026-01-13T00:19:36Z"
   },
   "vulnerable-code/railsgoat": {
-    "last_disable": "2026-01-12T00:23:12Z"
+    "last_disable": "2026-01-13T00:19:36Z"
   },
   "vulnerable-code/ruby-goof": {
-    "last_disable": "2026-01-12T00:23:12Z"
+    "last_disable": "2026-01-13T00:19:36Z"
   },
   "vulnerable-code/scala-vulnerable-code": {
-    "last_disable": "2026-01-12T00:23:12Z"
+    "last_disable": "2026-01-13T00:19:36Z"
   },
   "vulnerable-code/scala-woof": {
-    "last_disable": "2026-01-12T00:23:12Z"
+    "last_disable": "2026-01-13T00:19:37Z"
   },
   "vulnerable-code/seeve": {
-    "last_disable": "2026-01-12T00:23:12Z"
+    "last_disable": "2026-01-13T00:19:37Z"
   },
   "vulnerable-code/serverless-gcf-goof": {
-    "last_disable": "2026-01-12T00:23:13Z"
+    "last_disable": "2026-01-13T00:19:37Z"
   },
   "vulnerable-code/shiftleft-js-demo": {
-    "last_disable": "2026-01-12T00:23:13Z"
+    "last_disable": "2026-01-13T00:19:37Z"
   },
   "vulnerable-code/shiftleft-python-demo": {
-    "last_disable": "2026-01-12T00:23:13Z"
+    "last_disable": "2026-01-13T00:19:37Z"
   },
   "vulnerable-code/snykly": {
-    "last_disable": "2026-01-12T00:23:13Z"
+    "last_disable": "2026-01-13T00:19:38Z"
   },
   "vulnerable-code/sqli-labs": {
-    "last_disable": "2026-01-12T00:23:13Z"
+    "last_disable": "2026-01-13T00:19:38Z"
   },
   "vulnerable-code/sqlite-lab": {
-    "last_disable": "2026-01-12T00:23:14Z"
+    "last_disable": "2026-01-13T00:19:38Z"
   },
   "vulnerable-code/supplygoat": {
-    "last_disable": "2026-01-12T00:23:14Z"
+    "last_disable": "2026-01-13T00:19:38Z"
   },
   "vulnerable-code/sync-forked-repositories": {
-    "last_disable": "2026-01-12T00:23:14Z"
+    "last_disable": "2026-01-13T00:19:39Z"
   },
   "vulnerable-code/tarpit-c": {
-    "last_disable": "2026-01-12T00:23:14Z"
+    "last_disable": "2026-01-13T00:19:39Z"
   },
   "vulnerable-code/tarpit-java": {
-    "last_disable": "2026-01-12T00:23:14Z"
+    "last_disable": "2026-01-13T00:19:39Z"
   },
   "vulnerable-code/tarpit-python": {
-    "last_disable": "2026-01-12T00:23:15Z"
+    "last_disable": "2026-01-13T00:19:39Z"
   },
   "vulnerable-code/terragoat": {
-    "last_disable": "2026-01-12T00:23:15Z"
+    "last_disable": "2026-01-13T00:19:40Z"
   },
   "vulnerable-code/vulhub": {
-    "last_disable": "2026-01-12T00:23:15Z"
+    "last_disable": "2026-01-13T00:19:40Z"
   },
   "vulnerable-code/vuln": {
-    "last_disable": "2026-01-12T00:23:15Z"
+    "last_disable": "2026-01-13T00:19:40Z"
   },
   "vulnerable-code/vuln-netframework": {
-    "last_disable": "2026-01-12T00:23:15Z"
+    "last_disable": "2026-01-13T00:19:40Z"
   },
   "vulnerable-code/vuln_rust": {
-    "last_disable": "2026-01-12T00:23:16Z"
+    "last_disable": "2026-01-13T00:19:41Z"
   },
   "vulnerable-code/vulnado": {
-    "last_disable": "2026-01-12T00:23:16Z"
+    "last_disable": "2026-01-13T00:19:41Z"
   },
   "vulnerable-code/vulndb": {
-    "last_disable": "2026-01-12T00:23:16Z"
+    "last_disable": "2026-01-13T00:19:41Z"
   },
   "vulnerable-code/vulnerable": {
-    "last_disable": "2026-01-12T00:23:16Z"
+    "last_disable": "2026-01-13T00:19:41Z"
   },
   "vulnerable-code/vulnerable-app": {
-    "last_disable": "2026-01-12T00:23:17Z"
+    "last_disable": "2026-01-13T00:19:41Z"
   },
   "vulnerable-code/vulnerable-container-hub": {
-    "last_disable": "2026-01-12T00:23:17Z"
+    "last_disable": "2026-01-13T00:19:42Z"
   },
   "vulnerable-code/vulnerable-java-application": {
-    "last_disable": "2026-01-12T00:23:17Z"
+    "last_disable": "2026-01-13T00:19:42Z"
   },
   "vulnerable-code/vulnerable-node": {
-    "last_disable": "2026-01-12T00:23:17Z"
+    "last_disable": "2026-01-13T00:19:42Z"
   },
   "vulnerable-code/vulnerable-play": {
-    "last_disable": "2026-01-12T00:23:17Z"
+    "last_disable": "2026-01-13T00:19:42Z"
   },
   "vulnerable-code/vulnerable_net_core": {
-    "last_disable": "2026-01-12T00:23:17Z"
+    "last_disable": "2026-01-13T00:19:43Z"
   },
   "vulnerable-code/vulnerable_python": {
-    "last_disable": "2026-01-12T00:23:18Z"
+    "last_disable": "2026-01-13T00:19:43Z"
   },
   "vulnerable-code/vulnerablecode": {
-    "last_disable": "2026-01-12T00:23:18Z"
+    "last_disable": "2026-01-13T00:19:43Z"
   },
   "vulnerable-code/vulnpy": {
-    "last_disable": "2026-01-12T00:23:18Z"
+    "last_disable": "2026-01-13T00:19:43Z"
   },
   "vulnerable-code/vulpy": {
-    "last_disable": "2026-01-12T00:23:18Z"
+    "last_disable": "2026-01-13T00:19:44Z"
   },
   "vulnerable-code/wrongsecrets": {
-    "last_disable": "2026-01-12T00:23:18Z"
+    "last_disable": "2026-01-13T00:19:44Z"
   },
   "vulnerable-code/zipdu": {
-    "last_disable": "2026-01-12T00:23:19Z"
+    "last_disable": "2026-01-13T00:19:44Z"
   }
 }
